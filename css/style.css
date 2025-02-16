@@ -188,6 +188,12 @@ ul {
   object-fit: contain;
   z-index: -1;
 }
+
+@media screen and (max-width: 500px) {
+  .fullscreen-video {
+    object-fit: cover !important;
+  }
+}
 .home-header .home-nav ul {
   position: relative;
 }
