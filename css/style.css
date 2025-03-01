@@ -786,12 +786,13 @@ footer {
   .contact-section .form__each {
     width: 100%;
   }
+  .header .logo-section .titles--font-50 {
+    font-size: 30px;
+  }
 }
 
 @media only screen and (max-width: 340px) {
-  .header .logo-section .titles--font-50 {
-    font-size: 37px;
-  }
+  
   .header .logo-section p {
     font-size: 15px;
   }
