@@ -684,6 +684,7 @@ footer {
   .header .header__hamburger-div {
     display: block;
     cursor: pointer;
+    padding: 17px;
   }
   .header .header__hamburger-div .header__hamburger-menu {
     margin-right: 15px;
